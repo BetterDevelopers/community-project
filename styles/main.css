@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #111;
+}
+
+a:hover {
+  color: firebrick;
+}
+
+body {
+  background-color: #eee;
+  color: #111;
+  font-family: monospace;
+  font-size: 1.3em;
+  line-height: 1.6em;
+}
+
+#container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  margin: 10px 0 10px 0;
+  border-bottom: 1px solid black;
+}
+
+#banner {
+  display: flex;
+  padding: 0 15px 0 15px;
+  flex-direction: column;
+  align-items: center;
+}
+
+#title {
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+#nav li {
+  display: inline-block;
+  list-style-type: none;
+  font-size: 1.3em;
+}

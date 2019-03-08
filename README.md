@@ -28,7 +28,7 @@ More info on [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/
 
 ## Contributing
 
-All members of the Better Developer community are encouraged t get involved regardless of skill level, if you know all there is to know (you don't...) then get involved and help others, if you have never used git before then **START NOW**.
+All members of the Better Developer community are encouraged to get involved regardless of skill level, if you know all there is to know (you don't...) then get involved and help others, if you have never used git before then **START NOW**.
 
 First up is to make your first pull request, I'll give a brief walkthrough here, but I want to stay away from listing the exact commands and let you find that out for yourself using the resources above, of course if you are stuck reach out in the Discord.
 
@@ -41,4 +41,4 @@ First up is to make your first pull request, I'll give a brief walkthrough here,
 
 ## Future Plans
 
-More information about the plans for the project can be found in the _community-project_ chanel on Discord.
+More information about the plans for the project can be found in the _community-project_ channel on Discord.
