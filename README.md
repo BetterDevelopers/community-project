@@ -1,5 +1,7 @@
 # Better Developer Community Project
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+
 For those in the Better Developer community looking to get accustomed with using Git and working as part of a team, which is a vital skill for software developers of all levels.
 
 ## What This Is
