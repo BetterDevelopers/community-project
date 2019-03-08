@@ -28,4 +28,15 @@ More info on [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/
 
 All members of the Better Developer community are encouraged t get involved regardless of skill level, if you know all there is to know (you don't...) then get involved and help others, if you have never used git before then **START NOW**.
 
+First up is to make your first pull request, I'll give a brief walkthrough here, but I want to stay away from listing the exact commands and let you find that out for yourself using the resources above, of course if you are stuck reach out in the Discord.
+
+1. Fork this repo.
+2. Create a new branch, using your name as the branch name.
+3. Add your name and GitHub url to the **CONTRIBUTORS.md** file.
+4. Push your changes to your branch.
+5. Go to your repository and you'll see a green button **Compare & pull request** - click it.
+6. Sit back and wait for your pull request to be merged.
+
+## Future Plans
+
 More information about the plans for the project can be found in the _community-project_ chanel on Discord.
