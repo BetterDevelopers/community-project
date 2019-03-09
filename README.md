@@ -51,4 +51,4 @@ First up is to make your first pull request, I'll give a brief walkthrough here,
 
 More information about the plans for the project can be found in the _community-project_ chanel on Discord.
 
-![](https://media.giphy.com/media/THzD75P25Aw5q/giphy.gif)
+![](https://media.giphy.com/media/UHl4f0mICMOCA/giphy.gif)
