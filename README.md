@@ -8,13 +8,13 @@ For those in the Better Developer community looking to get accustomed with using
 
 As stated above this is our very own little playground to get to grips with using Git, things like Branching, Merging, Pull Requests and more, if this is all new to you then don't worry, there is a **Resources** section below where you can learn more.
 
-https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif
+![](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 ## What This Isn't
 
 OK, so obviously when we first think of a community project we all think that we are going to be part of something big, creating something awesome, I'm here to tell you **This isn't that** We are not going to be building some super cool face recognition, self driving spaceship thingy...
 
-https://media.giphy.com/media/3ohs4rclkSSrNGSlFK/giphy.gif
+![](https://media.giphy.com/media/3ohs4rclkSSrNGSlFK/giphy.gif)
 
 However all is not lost, we will be learning a great skill that will set you apart from the competition when looking for a job and more importantly the skills that will mean you can do your job effectively and not f\*\*k everything up for your team.
 
@@ -30,7 +30,7 @@ Another great read from our very own Corey can be found [here](http://www.bttrdv
 
 More info on [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
 
-https://media.giphy.com/media/l2JefCfAtYj1WTPMc/giphy.gif
+![](https://media.giphy.com/media/l2JefCfAtYj1WTPMc/giphy.gif)
 
 ## Contributing
 
@@ -45,10 +45,10 @@ First up is to make your first pull request, I'll give a brief walkthrough here,
 5. Go to your repository and you'll see a green button **Compare & pull request** - click it.
 6. Sit back and wait for your pull request to be merged.
 
-https://media.giphy.com/media/THzD75P25Aw5q/giphy.gif
+![](https://media.giphy.com/media/THzD75P25Aw5q/giphy.gif)
 
 ## Future Plans
 
 More information about the plans for the project can be found in the _community-project_ chanel on Discord.
 
-https://media.giphy.com/media/THzD75P25Aw5q/giphy.gif
+![](https://media.giphy.com/media/THzD75P25Aw5q/giphy.gif)
