@@ -4,3 +4,7 @@
 -[@are](https://github.com/ar3tea)
 -[@Sneakzz](https://github.com/Sneakzz)
 -[@sam](https://github.com/samuelludwig)
+-[@anagutjor](https://github.com/anagutjor)
+-[@sam](https://github.com/samuelludwig)
+-[@laurence](https://github.com/LaurenceNairne)
+
