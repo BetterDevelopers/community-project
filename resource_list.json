@@ -1,0 +1,11 @@
+{
+    "resources": {
+        "resource_name": {
+            "title": "title_of_resource",
+            "subject_tags": ["python", "tdd", "tag3", "..."],
+            "author": "name_of_author_and/or_organization_that_created_the_resource",
+            "link_to_resource": "https.whatever%20it%20is.com",
+            "other_tags": ["podcast", "beginner-centric", "practice-problems", "pdf", "series", "..."]
+        }
+    }
+}
