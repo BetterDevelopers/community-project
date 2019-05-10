@@ -8,3 +8,4 @@
 -[@laurence](https://github.com/LaurenceNairne)  
 -[@S4G4R](https://github.com/S4G4R)  
 -[@jlayog](https://github.com/jlayog)  
+-[@dalot](https://github.com/dalot)
